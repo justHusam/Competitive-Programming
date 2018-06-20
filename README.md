@@ -2,6 +2,7 @@
 
 This repository contains my Accepted solutions on the following online judges:
  * A2OJ (131 problems).
+ * CS Academy (3 problems).
  * Live Archive (167 problems).
  * SGU (7 problems).
  * SPOJ (184 problems).
