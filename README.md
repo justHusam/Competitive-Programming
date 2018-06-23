@@ -10,4 +10,4 @@ This repository contains my Accepted solutions on the following online judges:
  * TJU (33 problems).
  * TopCoder (68 problems).
  * URI (15 problems).
- * UVa (30 problems).
+ * UVa (90 problems).
